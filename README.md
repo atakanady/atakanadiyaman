@@ -1,9 +1,6 @@
 # Hi everyone, my name is Atakan <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
-## Python Programmer 👨🏼‍💻 Fitness Lover 💪🏼
-- I am eager to enhance my programming skills to stay up to date in this progressive sector.
-- My hobbies are travelling abroad,to swim and going to the gym.
-
+## ERP SOFTWARE SPECIALIST
 
 ## Connect with me
 
