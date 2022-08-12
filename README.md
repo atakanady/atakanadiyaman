@@ -1,6 +1,6 @@
 # Hi everyone, my name is Atakan <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
-## ERP SOFTWARE SPECIALIST
+## JR.SOFTWARE  DEVELOPER
 
 ## Connect with me
 
